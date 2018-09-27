@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="richard-banwagong" createEmptyFolders="true">
+    <serverData>
+      <paths name="Aristotle">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/SimpleCovNet" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Copy of project-level server 'richard-banwagong'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Convolutional_network" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="richard-banwagong">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_23" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
